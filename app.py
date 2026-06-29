@@ -11,7 +11,8 @@ data = [
     {"distance": 300, "time": 35.5, "actual_100m": 11.0},
     {"distance": 400, "time": 50.0, "actual_100m": 11.5},
     {"distance": 200, "time": 23.5, "actual_100m": 11.2},
-    {"distance": 100, "time": 11.0, "actual_100m": 11.0}
+    {"distance": 100, "time": 11.0, "actual_100m": 11.0},
+    {"distance": 300, "time": 37.2, "actual_100m":11.62}
 ]
 df = pd.DataFrame(data)
 
